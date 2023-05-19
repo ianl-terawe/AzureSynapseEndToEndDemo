@@ -4,7 +4,7 @@
 		"parameters": {
 			"StorageName": {
 				"type": "string",
-				"defaultValue": "amia2023sac"
+				"defaultValue": "amia2023sa"
 			}
 		},
 		"annotations": [],
